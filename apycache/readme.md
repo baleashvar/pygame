@@ -28,3 +28,5 @@ Move Shapes: Use the arrow keys to define the direction in which the shapes move
 
 ## Screenshots
 
+![Kung Fu Panda](/apycache/screenshot.PNG)
+*Game Screenshot.*
